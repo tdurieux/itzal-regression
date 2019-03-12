@@ -36,12 +36,12 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-proxy</artifactId>
-            <version>9.3.11.v20160721</version>
+            <version>9.3.24.v20180605</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlet</artifactId>
-            <version>9.3.11.v20160721</version>
+            <version>9.3.24.v20180605</version>
         </dependency>
         <dependency>
             <groupId>org.glassfish.jersey.core</groupId>
